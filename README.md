@@ -8,9 +8,9 @@
 
 <p align='center'>
    <a href="https://www.instagram.com/luca__berardi/"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/instagram_logo.webp"></a>&nbsp;&nbsp;
-   
-   
-   
+ <a href="https://www.linkedin.com/in/luca-berardi-911a94237/"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/linkedin_logo.png"></a>&nbsp;&nbsp;
+ <a href="https://github.com/LucaBerardi6"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/github-logo.png"></a>&nbsp;&nbsp;  
+</p>   
    
 <!--   
 <a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
