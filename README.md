@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://github.com/LucaBerardi6">Luca</a> 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/LucaBerardi6">Luca</a> 👋 </h1>
 
 <!--
 **LucaBerardi6/LucaBerardi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
