@@ -11,7 +11,7 @@
  <a href="https://www.linkedin.com/in/luca-berardi-911a94237/"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/linkedin_logo.png"></a>&nbsp;&nbsp;
  <a href="https://github.com/LucaBerardi6"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/logo_github.png"></a>&nbsp;&nbsp;  
  <a href="mailto:berardiluca99@gmail.com"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/gmail-logo.webp"></a>&nbsp;&nbsp;
- <a href="mailto:berardiluca99@gmail.com"><img height="30" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/yahoo_logo.png"></a>&nbsp;&nbsp;  
+ <a href="mailto:berardiluca99@gmail.com"><img height="75" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/yahoo_logo.png"></a>&nbsp;&nbsp;  
   
    
 </p>   
