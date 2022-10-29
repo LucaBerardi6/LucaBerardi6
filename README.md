@@ -7,7 +7,7 @@
 
 
 <p align='center'>
-   <a href="https://www.instagram.com/luca__berardi/"><img height="30" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/instagram_logo.webp"></a>&nbsp;&nbsp;
+   <a href="https://www.instagram.com/luca__berardi/"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/instagram_logo.webp"></a>&nbsp;&nbsp;
    
    
    
