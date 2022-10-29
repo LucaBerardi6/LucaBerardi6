@@ -9,7 +9,7 @@
 <p align='center'>
    <a href="https://www.instagram.com/luca__berardi/"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/instagram_logo.webp"></a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/luca-berardi-911a94237/"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/linkedin_logo.png"></a>&nbsp;&nbsp;
- <a href="https://github.com/LucaBerardi6"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/github_logo1.jpg"></a>&nbsp;&nbsp;  
+ <a href="https://github.com/LucaBerardi6"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/github_logo.png"></a>&nbsp;&nbsp;  
 </p>   
    
 <!--   
