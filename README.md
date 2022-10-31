@@ -2,6 +2,7 @@
 
 
 <h2 align="center"> 👨‍💻 About me:  </h2>
+- 📌 I'm from Italy. <br>
 - 👨‍🎓 I have a Bachelor's Degree in computer engineering. <br>
 - 📚 I'm enrolled in the Master's Degree Course in Computer Engineering at <a href="https://www.unibo.it"> Alma Mater Studiorum University of Bologna</a>.
 
