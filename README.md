@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/LucaBerardi6" >Luca</a> 👋 </h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/LucaBerardi6" >Luca</a> 👋 </h1> <br>
 
 
 <h2 align="center"> 👨‍💻 About me:  </h2>
