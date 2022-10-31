@@ -1,12 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/LucaBerardi6" >Luca</a> 👋 </h1>
 
 
-<hr>
 <h2 align="center"> 👨‍💻 About me:  </h2>
-- 👨‍🎓 I have a Bachelor's Degree in computer engineering <br>
-- 📚 I'm enrolled in the Master's Degree Course in Computer Engineering at [Alma Mater Studiorum University of Bologna](https://www.unibo.it/)
+- 👨‍🎓 I have a Bachelor's Degree in computer engineering. <br>
+- 📚 I'm enrolled in the Master's Degree Course in Computer Engineering at <a href="https://www.unibo.it"> Alma Mater Studiorum University of Bologna</a>.
 
-<hr>
+
 <h2 align="center">📫 How to reach me: </h2>
 <p align='center'>
    <a href="https://www.instagram.com/luca__berardi/"><img height="90" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/instagram_logo.webp"></a>&nbsp;&nbsp;
