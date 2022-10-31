@@ -1,19 +1,21 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/LucaBerardi6" >Luca</a> 👋 </h1>
 
 
-<!--
-- 👨‍🎓 I have a bachelor's degree in computer engineering
-- 📚 I am currently studying at the University of Bologna
+<hr>
+<h2 align="center"> 👨‍💻 About me:  </h2>
+- 👨‍🎓 I have a Bachelor's Degree in computer engineering <br>
+- 📚 I'm enrolled in the Master's Degree Course in Computer Engineering at [Alma Mater Studiorum University of Bologna](https://www.unibo.it/)
 
-
+<hr>
+<h2 align="center">📫 How to reach me: </h2>
 <p align='center'>
-   <a href="https://www.instagram.com/luca__berardi/"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/instagram_logo.webp"></a>&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/luca-berardi-911a94237/"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/linkedin_logo.png"></a>&nbsp;&nbsp; 
- <a href="mailto:berardiluca99@gmail.com,berardiluca99@yahoo.com"><img height="100" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/email2.png"></a>&nbsp;&nbsp; 
+   <a href="https://www.instagram.com/luca__berardi/"><img height="90" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/instagram_logo.webp"></a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/luca-berardi-911a94237/"><img height="90" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/linkedin_logo.png"></a>&nbsp;&nbsp; 
+ <a href="mailto:berardiluca99@gmail.com,berardiluca99@yahoo.com"><img height="90" src="https://github.com/LucaBerardi6/LucaBerardi6/blob/main/email2.png"></a>&nbsp;&nbsp; 
    
 </p>   
 
--->
+
    
 
 
